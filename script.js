@@ -1,11 +1,11 @@
 const projetos = [
   {
     nome: "Projeto 1",
-    descricao: "Meu primeiro projeto"
+    descricao: "Meu primeiro projeto em fase de aprendizado"
   },
   {
     nome: "Projeto 2",
-    descricao: "Meu segundo projeto"
+    descricao: "Meu segundo projeto em fase de aprendizado"
   }
 ];
 
