@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #ffe6f0;
+}
+
+header {
+  background: pink;
+  text-align: center;
+  padding: 20px;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+section {
+  padding: 20px;
+}
+
+#lista-projetos {
+  display: flex;
+  gap: 10px;
+}
+
+.card {
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+}
